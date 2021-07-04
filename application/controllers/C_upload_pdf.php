@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class C_upload extends CI_Controller {
+class C_upload_pdf extends CI_Controller {
 
   function __construct(){
     parent::__construct();
